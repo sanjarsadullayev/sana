@@ -1,0 +1,41 @@
+h1{
+    background-color:skyblue;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid red
+}
+h2{
+    text-align: center;
+    color: darkgreen;
+}
+img{
+    width: 690px;
+    height: 350px;
+}
+iframe{
+
+    background-color: black;
+    width: 800px;
+    height: 370px;
+}
+button{
+    background-color: skyblue;
+    color: aliceblue;
+    width: 150px;
+    height: 30px;
+}
+table{
+    background-color: darkgreen;
+    border: 2px solid darkgreen
+    text-align: center;
+    color: aliceblue;
+}
+
+th{
+    background-color: darkgreen;
+    border: 2px solid red
+}
+thead{
+    background-color: blue;
+    border: 2px solid darkgreen
+}
